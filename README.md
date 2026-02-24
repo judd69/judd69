@@ -1,5 +1,3 @@
-# 💫 About Me:
-i m currently working on building AI machine learning projects,<br> i am looking to collaborate to startups and build their software foundation <br>i am la student of BTECH CS AI ML<br>I am representing india at nasa herc 2026<br>funfact i can speak fluent c# than espanol<br><br>
 
 
 ## 🌐 Socials:
