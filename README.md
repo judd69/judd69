@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola!
+# Hola! I am Jude
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+CS+%40+Atlas+SkillTech+University;Google+Gemini+Student+Ambassador;NASA+HERC+%E2%80%94+Team+Mushak+Software+Lead;Building+AI+products+that+actually+ship)](https://git.io/typing-svg)
 
